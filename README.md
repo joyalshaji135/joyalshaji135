@@ -1,4 +1,4 @@
-<img align="center" alt="Coding      " src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif">   
+<img align="center" alt="Coding       " src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif">   
 
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ADFF2F&height=120&section=header"/>
