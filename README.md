@@ -4,7 +4,6 @@
 
 
 
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Joyal+Shaji;joyalshaji135;Full+Stack+Developer;MERN+STACK!)](https://git.io/typing-svg)
