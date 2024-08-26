@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Full Stack Developer**
 
 - 📫 How to reach me **<a href="https://joyal-shaji.netlify.app/">Click Me </a>**
 
@@ -93,9 +93,10 @@
 
 <p align = "center">
 
- 
+<!-- 
   <img src = "https://github-contributor-stats.vercel.app/api?username=joyalshaji135&limit=6&theme=chartreuse-dark&combine_all_yearly_contributions=true">
-   &nbsp&nbsp&nbsp&nbsp
+ 
+   &nbsp&nbsp&nbsp&nbsp -->
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=joyalshaji135&langs_count=20&layout=compact&theme=chartreuse-dark&include_all_commits=true&line_height=27">
 </p>
 
